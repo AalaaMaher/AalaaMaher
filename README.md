@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aalaa Maher</h1>
-<h3 align="center">A Full Stack developer from Egypt</h3>
+<h3 align="center">A Full Stack Developer </h3>
 
 - 📫 How to reach me **lolo.maher2267@gmail.com**
 
