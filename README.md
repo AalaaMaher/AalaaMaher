@@ -8,7 +8,7 @@
 - 💻I’m **currently working with React,.NET Core**
 
 - 📫 How to reach me **lolo.maher2267@gmail.com**
-- 📫To more Details **https://drive.google.com/file/d/1B8Si3nfv9ggbk43W0cHE25r2UDYEJJgz/view?usp=sharing**
+- 📫To more Details **https://drive.google.com/file/d/13edNyksev9q-wcl0__xY8Pp0uGhoV7HB/view?usp=sharing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
